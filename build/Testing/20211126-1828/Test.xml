@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20211126-1828-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.0-rc3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Luc_"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19042)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="5"
+	ProcessorCacheSize="128"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="20957"
+	TotalPhysicalMemory="7645"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2495"
+	>
+	<Testing>
+		<StartDateTime>Nov 27 01:42 SE Asia Standard Time</StartDateTime>
+		<StartTestTime>1637952146</StartTestTime>
+		<TestList>
+			<Test>./test/LastTaskTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>LastTaskTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/LastTaskTests</FullName>
+			<FullCommandLine>"E:\Kuliah\Elektro\Semester 4\PMC\Semester ganjil\Last Task\build\test\Debug\LastTaskTests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.77</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"E:\Kuliah\Elektro\Semester 4\PMC\Semester ganjil\Last Task\build\test\Debug\LastTaskTests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVk8tuwjAQRff5ilnCAgsquqnUVYsqQV9K0xVByIQhMfED2Q6lf187QVAiEoXZZEY+d3yvIoeFlEymICiTvT5stBIweYhnBWc0iyccc6tV/IUCjUUN4/jz7ek8plRuGY9fqbEQUZPHqVIpR+tO/7dGJ3Hqu6W/hiRJMH881QLCo4d78IypTFQDmIK5Lwnmg1Mt4IWrFeUVgHLPtJICpYPRDopdDR5VXLnUG/U+nY8DXS0jdxDMIfx+h7IW1wBStg6r6mPWhkFvCML0b3JQacAqS3k/6CC1RU51m/kzQMq2wXwd627+rLzZvEb3l6ZUtPm/YEh4nBpSXIe7Z7nQ3xxnS0WkntGyvC1QjSLT09wQqlnQPVhtx/VohJAgyhC0J9QGrOvLXaqwu8LCDzXuTKg9rsEwmSAw9+YOCeLaVHDmpJnia68eDe/GsPotX+wfrBdo3w==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 27 01:42 SE Asia Standard Time</EndDateTime>
+		<EndTestTime>1637952147</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

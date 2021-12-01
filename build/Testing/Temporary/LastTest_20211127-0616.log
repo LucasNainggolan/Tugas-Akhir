@@ -1,0 +1,99 @@
+Start testing: Nov 28 00:21 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: LastTaskTests
+1/1 Test: LastTaskTests
+Command: "E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Last Task/build/test/Debug/LastTaskTests.exe"
+Directory: E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Last Task/build/test
+"LastTaskTests" start time: Nov 28 00:21 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from E:\Kuliah\Elektro\Semester 4\PMC\Semester ganjil\Last Task\googletest\googletest\src\gtest_main.cc
+[==========] Running 15 tests from 15 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from LastTask_maxab_Test
+[ RUN      ] LastTask_maxab_Test.maxab
+[       OK ] LastTask_maxab_Test.maxab (0 ms)
+[----------] 1 test from LastTask_maxab_Test (0 ms total)
+
+[----------] 1 test from LastTask_tukar_Test
+[ RUN      ] LastTask_tukar_Test.tukar
+[       OK ] LastTask_tukar_Test.tukar (0 ms)
+[----------] 1 test from LastTask_tukar_Test (0 ms total)
+
+[----------] 1 test from LastTask_resetJam_Test
+[ RUN      ] LastTask_resetJam_Test.ResetJam
+[       OK ] LastTask_resetJam_Test.ResetJam (0 ms)
+[----------] 1 test from LastTask_resetJam_Test (0 ms total)
+
+[----------] 1 test from LastTask_incTab_Test
+[ RUN      ] LastTask_incTab_Test.incTab
+[       OK ] LastTask_incTab_Test.incTab (0 ms)
+[----------] 1 test from LastTask_incTab_Test (0 ms total)
+
+[----------] 1 test from LastTask_jamToDetik_Test
+[ RUN      ] LastTask_jamToDetik_Test.JamToDetik
+[       OK ] LastTask_jamToDetik_Test.JamToDetik (0 ms)
+[----------] 1 test from LastTask_jamToDetik_Test (0 ms total)
+
+[----------] 1 test from LastTask_detikToJam_Test
+[ RUN      ] LastTask_detikToJam_Test.DetikToJam
+[       OK ] LastTask_detikToJam_Test.DetikToJam (0 ms)
+[----------] 1 test from LastTask_detikToJam_Test (0 ms total)
+
+[----------] 1 test from LastTask_succ_Test
+[ RUN      ] LastTask_succ_Test.succ
+[       OK ] LastTask_succ_Test.succ (0 ms)
+[----------] 1 test from LastTask_succ_Test (0 ms total)
+
+[----------] 1 test from LastTask_pred_Test
+[ RUN      ] LastTask_pred_Test.pred
+[       OK ] LastTask_pred_Test.pred (0 ms)
+[----------] 1 test from LastTask_pred_Test (0 ms total)
+
+[----------] 1 test from LastTask_geser_Test
+[ RUN      ] LastTask_geser_Test.geser
+[       OK ] LastTask_geser_Test.geser (0 ms)
+[----------] 1 test from LastTask_geser_Test (0 ms total)
+
+[----------] 1 test from LastTask_succI_Test
+[ RUN      ] LastTask_succI_Test.succI
+[       OK ] LastTask_succI_Test.succI (0 ms)
+[----------] 1 test from LastTask_succI_Test (0 ms total)
+
+[----------] 1 test from LastTask_predI_Test
+[ RUN      ] LastTask_predI_Test.predI
+[       OK ] LastTask_predI_Test.predI (0 ms)
+[----------] 1 test from LastTask_predI_Test (0 ms total)
+
+[----------] 1 test from LastTask_succC_Test
+[ RUN      ] LastTask_succC_Test.succC
+[       OK ] LastTask_succC_Test.succC (0 ms)
+[----------] 1 test from LastTask_succC_Test (0 ms total)
+
+[----------] 1 test from LastTask_predC_Test
+[ RUN      ] LastTask_predC_Test.predC
+[       OK ] LastTask_predC_Test.predC (0 ms)
+[----------] 1 test from LastTask_predC_Test (0 ms total)
+
+[----------] 1 test from LastTask_Pros1_Test
+[ RUN      ] LastTask_Pros1_Test.Pros1
+[       OK ] LastTask_Pros1_Test.Pros1 (0 ms)
+[----------] 1 test from LastTask_Pros1_Test (0 ms total)
+
+[----------] 1 test from LastTask_fungsi1_Test
+[ RUN      ] LastTask_fungsi1_Test.fungsi1
+[       OK ] LastTask_fungsi1_Test.fungsi1 (0 ms)
+[----------] 1 test from LastTask_fungsi1_Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 15 tests from 15 test suites ran. (7 ms total)
+[  PASSED  ] 15 tests.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"LastTaskTests" end time: Nov 28 00:21 SE Asia Standard Time
+"LastTaskTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 28 00:21 SE Asia Standard Time

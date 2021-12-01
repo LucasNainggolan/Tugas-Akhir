@@ -1,0 +1,49 @@
+Start testing: Nov 27 01:42 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: LastTaskTests
+1/1 Test: LastTaskTests
+Command: "E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Last Task/build/test/Debug/LastTaskTests.exe"
+Directory: E:/Kuliah/Elektro/Semester 4/PMC/Semester ganjil/Last Task/build/test
+"LastTaskTests" start time: Nov 27 01:42 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from E:\Kuliah\Elektro\Semester 4\PMC\Semester ganjil\Last Task\googletest\googletest\src\gtest_main.cc
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from LastTask_maxab_Test
+[ RUN      ] LastTask_maxab_Test.maxab
+[       OK ] LastTask_maxab_Test.maxab (0 ms)
+[----------] 1 test from LastTask_maxab_Test (0 ms total)
+
+[----------] 1 test from LastTask_tukar_Test
+[ RUN      ] LastTask_tukar_Test.tukar
+[       OK ] LastTask_tukar_Test.tukar (0 ms)
+[----------] 1 test from LastTask_tukar_Test (0 ms total)
+
+[----------] 1 test from LastTask_resetJam_Test
+[ RUN      ] LastTask_resetJam_Test.ResetJam
+[       OK ] LastTask_resetJam_Test.ResetJam (0 ms)
+[----------] 1 test from LastTask_resetJam_Test (0 ms total)
+
+[----------] 1 test from LastTask_jamToDetik_Test
+[ RUN      ] LastTask_jamToDetik_Test.JamToDetik
+[       OK ] LastTask_jamToDetik_Test.JamToDetik (0 ms)
+[----------] 1 test from LastTask_jamToDetik_Test (0 ms total)
+
+[----------] 1 test from LastTask_detikToJam_Test
+[ RUN      ] LastTask_detikToJam_Test.DetikToJam
+[       OK ] LastTask_detikToJam_Test.DetikToJam (0 ms)
+[----------] 1 test from LastTask_detikToJam_Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (2 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"LastTaskTests" end time: Nov 27 01:42 SE Asia Standard Time
+"LastTaskTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 27 01:42 SE Asia Standard Time
